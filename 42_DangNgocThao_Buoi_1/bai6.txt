@@ -1,0 +1,6 @@
+Bài 6
+a. Độ phức tạp: O(n^2)
+b. Độ phức tạp: O(n^2)
+c. Độ phức tạp: O(n^3)
+d. Độ phức tạp: O(n^3)
+e. Độ phức tạp: O(n^2)

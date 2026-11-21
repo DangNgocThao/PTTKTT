@@ -1,0 +1,7 @@
+Tong khoi luong ba lo co chua duoc: 27
+Tong gia tri dat duoc: 45
+Vat	So luong chon
+B	1
+A	1
+D	1
+C	1
